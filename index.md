@@ -10,7 +10,7 @@ Here's an image of a drag racer in action:
 
 <img src="ChickenPaprikash.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 100px; width:200px" 
+     style="float: left; margin-right: 100px; width:20px" 
      />
 
 Move along.
