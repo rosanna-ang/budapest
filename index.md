@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Day 1
 
 You can use the [editor on GitHub](https://github.com/rosanna-ang/budapest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Here's an image of a drag racer in action:
+
+![Drag Racing](ChickenPaprikash.jpg)
+
+<img src="ChickenPaprikash.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+Move along.
 
 ### Markdown
 
