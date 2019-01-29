@@ -8,7 +8,7 @@ Széchenyi Chain Bridge (Lánchíd) is the most famous bridge in the city: the .
 
 
 ### Lunch at Pest-Buda Bistro
-[Link](https://www.google.com/maps/place/Fortuna+u.+3,+Budapest,+1014+Hungary/@47.503307,19.03232,17z/data=!3m1!4b1!4m2!3m1!1s0x4741dc18b47f94b5:0x8a84a09552773657)
+[Map](https://www.google.com/maps/place/Fortuna+u.+3,+Budapest,+1014+Hungary/@47.503307,19.03232,17z/data=!3m1!4b1!4m2!3m1!1s0x4741dc18b47f94b5:0x8a84a09552773657)
 
 What used to be a pub is now a delightful restaurant that prides itself on serving simple home cooked food. The menu includes options like grilled sausages, oven baked flamed pies, and goulash soup. Pest-Buda Bistro is close to the castle and the cathedral, making it the perfect lunch or dinner break with excellent service and a charming seating area outside.
 
@@ -33,7 +33,8 @@ From the Royal Palace, take Támok utca (street) until you get to Matthias Churc
 Funicular ride from Castle Hill top to Adam Clark Sq by Chain Bridge... alternately we can walk back down.
 
 ### Dinner at New York Cafe
-[Link](https://goo.gl/maps/QzDKNyhhjTL2)
+[Map](https://goo.gl/maps/QzDKNyhhjTL2)
+
 The beating heart of the New York Palace hotel, the New York Café has preserved all the authentic decoration and flair that once made it an inspiration for the enquiring minds of Hungary's cultural and intellectual community. Cast your gaze upwards to the ceiling and you’ll see frescoes by Gusztav Mannheimer and Ferenc Eisenhut, dating back to the mid-1800s. All around you, Venetian glass lamps softly illuminate the marble columns and gilded stuccoes. Enveloped by this Belle Époque charm, you can relish the moment. Enjoy a conversation with your waiter or barman, follow the chef’s recommendations – and soak up the colour and the chatter of one of Europe’s most legendary destinations.
 
 View the menus [here](NewYorkCafeMenu2019January_en.pdf).
@@ -47,45 +48,21 @@ Reservation is at 8:00pm.
 <img src="dobos.jpg" width="400">
 
 
-and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-
 
 ## Sunday in Pest
-### Markdown
+### Walk up North for a morning stroll
+- Shoes on the Danube Bank
+- Liberty Square
+
+[Map](https://goo.gl/maps/QzDKNyhhjTL2)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-<img src="gulyas.jpg" width="400">
 
-# Header 1
-## Header 2
-### Header 3
+### Dinner at Zeller Bistro
+[Map](https://goo.gl/maps/QzDKNyhhjTL2)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosanna-ang/budapest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Monday (for Hunhun only)
+### Lunch at Comme Chez Soi - very near the hotel
+[Map](https://goo.gl/maps/7WY6EZN4cE82)
