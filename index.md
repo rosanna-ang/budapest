@@ -46,21 +46,12 @@ Jan Gregorka - double bass
 
 https://opusjazzclub.hu/en/concerts/slovenijajazz-beyond-teo-collori-momento-cigano
 
-
-### Late Dinner at New York Cafe
-[Map](https://goo.gl/maps/QzDKNyhhjTL2)
-
-
-The beating heart of the New York Palace hotel, the New York Café has preserved all the authentic decoration and flair that once made it an inspiration for the enquiring minds of Hungary's cultural and intellectual community. Cast your gaze upwards to the ceiling and you’ll see frescoes by Gusztav Mannheimer and Ferenc Eisenhut, dating back to the mid-1800s. All around you, Venetian glass lamps softly illuminate the marble columns and gilded stuccoes. Enveloped by this Belle Époque charm, you can relish the moment. Enjoy a conversation with your waiter or barman, follow the chef’s recommendations – and soak up the colour and the chatter of one of Europe’s most legendary destinations.
-
-View the menus [here](NewYorkCafeMenu2019January_en.pdf).
-Reservation is at 8:00pm.
-Reservation is at 10:00pm.
+### Dinner... let's play it by ear!
+?
 
 
 
 ## Sunday in Pest
-
 
 - Statue of Pálné Veres
 - Hungarian National Museum
@@ -93,7 +84,6 @@ More info on the concert [here](https://www.mupa.hu/en/program/classical-music-o
 - Erzsébet Square
 
 
-
 ### Dinner at Zeller Bistro
 [Map](https://goo.gl/maps/QzDKNyhhjTL2)
 
@@ -102,3 +92,11 @@ More info on the concert [here](https://www.mupa.hu/en/program/classical-music-o
 
 ### Lunch at Comme Chez Soi - very near the hotel
 [Map](https://goo.gl/maps/7WY6EZN4cE82)
+
+### Dinner at New York Cafe
+[Map](https://goo.gl/maps/QzDKNyhhjTL2)
+
+The beating heart of the New York Palace hotel, the New York Café has preserved all the authentic decoration and flair that once made it an inspiration for the enquiring minds of Hungary's cultural and intellectual community. Cast your gaze upwards to the ceiling and you’ll see frescoes by Gusztav Mannheimer and Ferenc Eisenhut, dating back to the mid-1800s. All around you, Venetian glass lamps softly illuminate the marble columns and gilded stuccoes. Enveloped by this Belle Époque charm, you can relish the moment. Enjoy a conversation with your waiter or barman, follow the chef’s recommendations – and soak up the colour and the chatter of one of Europe’s most legendary destinations.
+
+View the menus [here](NewYorkCafeMenu2019January_en.pdf).
+Reservation is at 8:00pm.
