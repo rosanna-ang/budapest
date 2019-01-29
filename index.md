@@ -6,6 +6,8 @@ Walk to Buda side by crossing the famous bridge
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+<img src="ChickenPap.jpg" width="100">
+
 
 
 You can use the [editor on GitHub](https://github.com/rosanna-ang/budapest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
