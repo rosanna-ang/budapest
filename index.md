@@ -32,20 +32,30 @@ From the Royal Palace, take Támok utca (street) until you get to Matthias Churc
 
 Funicular ride from Castle Hill top to Adam Clark Sq by Chain Bridge... alternately we can walk back down.
 
-### Dinner at New York Cafe
+### JAZZ @ Budapest Music Center
+SLOVENIJAJAZZ & BEYOND | TEO COLLORI & MOMENTO CIGANO (SI)
+Teo Collori & Momento Cigano play an extraordinary medley of gypsy and swing music. It is a project where nostalgia blends with new stories, as the boys perform fresh, original songs, in a style that takes us back to the era of ballrooms, cigars, Charleston and lacquered shoes. Their first record, Hot Club Piran, was chosen as “Album of 2015” at the online music portal of the Slovenian coastal area, Muzikobala. In 2016 their quality was recognized in the USA as well, where the album was published on the renowned Lowtemp label. Their second, Kamerato Muzikante was released recently, in October 2018. The new songs still have roots in gipsy jazz but they also flirt with classical muisc, ethno and even film score.
+
+Teo Collori - guitar
+Matija Krečič - violin
+Matej Kužel - clarinet
+Metod Banko - guitar
+Jan Gregorka - double bass
+
+8pm ticket reservation.
+
+https://opusjazzclub.hu/en/concerts/slovenijajazz-beyond-teo-collori-momento-cigano
+
+
+### Late Dinner at New York Cafe
 [Map](https://goo.gl/maps/QzDKNyhhjTL2)
+
 
 The beating heart of the New York Palace hotel, the New York Café has preserved all the authentic decoration and flair that once made it an inspiration for the enquiring minds of Hungary's cultural and intellectual community. Cast your gaze upwards to the ceiling and you’ll see frescoes by Gusztav Mannheimer and Ferenc Eisenhut, dating back to the mid-1800s. All around you, Venetian glass lamps softly illuminate the marble columns and gilded stuccoes. Enveloped by this Belle Époque charm, you can relish the moment. Enjoy a conversation with your waiter or barman, follow the chef’s recommendations – and soak up the colour and the chatter of one of Europe’s most legendary destinations.
 
 View the menus [here](NewYorkCafeMenu2019January_en.pdf).
 Reservation is at 8:00pm.
-
-
-<img src="ChickenPaprika.jpg" width="400">
-
-<img src="gulyas.jpg" width="400">
-
-<img src="dobos.jpg" width="400">
+Reservation is at 10:00pm.
 
 
 
