@@ -13,12 +13,12 @@ Széchenyi Chain Bridge (Lánchíd) is the most famous bridge in the city: the .
 What used to be a pub is now a delightful restaurant that prides itself on serving simple home cooked food. The menu includes options like grilled sausages, oven baked flamed pies, and goulash soup. Pest-Buda Bistro is close to the castle and the cathedral, making it the perfect lunch or dinner break with excellent service and a charming seating area outside.
 
 ### Walk around Castle District
-    * Matthias Church – Trinity Statue – Fisherman’s Bastion
-    * Military Museum – Mary Magdalene Church Tower
-    * Toth Arpad Promenade – Arthur Gorgey Statue
-    * Palace of Buda: National Gallery – National Library – Budapest History Museum – Matthias Fountain
-    * Royal Palace – Sculpture of mythical Turul bird
-    * Funicular ride from Castle Hill top to Adam Clark Sq by Chain Bridge (Cable Car ticket included)
+- Matthias Church – Trinity Statue – Fisherman’s Bastion
+- Military Museum – Mary Magdalene Church Tower
+- Toth Arpad Promenade – Arthur Gorgey Statue
+- Palace of Buda: National Gallery – National Library – Budapest History Museum – Matthias Fountain
+- Royal Palace – Sculpture of mythical Turul bird
+- Funicular ride from Castle Hill top to Adam Clark Sq by Chain Bridge (Cable Car ticket included)
 
 <img src="ChickenPaprika.jpg" width="400">
 
