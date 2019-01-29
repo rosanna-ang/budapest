@@ -1,7 +1,7 @@
 ## Saturday Afternoon in Buda
 
 
-- Walk to Buda side by crossing the famous bridge
+#### Walk to Buda side by crossing the famous bridge
 <img src="http://visitbudapest.travel/images/made/images/content/body/szechenyi-chain-bridge_574_383.jpg" width="400">
 
 Széchenyi Chain Bridge (Lánchíd) is the most famous bridge in the city: the . The Chain Bridge was the first to permanently connect Buda and Pest. At the time of its construction, the bridge was considered to be one of the wonders of the world. The road is hanging on iron chains – hence its name, and is held by the two classicist piers.
