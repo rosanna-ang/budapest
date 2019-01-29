@@ -8,6 +8,8 @@ Walk to Buda side by crossing the famous bridge
 
 <img src="ChickenPaprika.jpg" width="500">
 
+<img src="gulyas.jpg" width="300">
+
 
 
 You can use the [editor on GitHub](https://github.com/rosanna-ang/budapest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
