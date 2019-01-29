@@ -50,26 +50,45 @@ Reservation is at 8:00pm.
 
 
 ## Sunday in Pest
+
+
+- Statue of Pálné Veres
+- Hungarian National Museum
+
+### Lunch at Central Cafe
+We have an early reservation of 10:30 am to make it to the concert in time.
+
+
+
+
 ### MUPA
-Debussy: Rhapsody No. 1 for Orchestra and Clarinet
-Debussy: La mer
+[Bus 2](https://goo.gl/maps/KnKVcQUkorK2)
+[Bus 979A](https://goo.gl/maps/Z1cceCw3PJ82)
+
+Debussy: Rhapsody No. 1 for Orchestra and Clarinet, La mer
 
 <img src="mav.jpg" width="400">
 
 More info on the concert [here](https://www.mupa.hu/en/program/classical-music-opera-theatre/mav-symphony-orchestra-2019-02-03_12-30-bela-bartok-national-concert-hall).
 
 
-[Map](https://goo.gl/maps/aRAfUcK7hYk)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Walk up north
 
 - Shoes on the Danube Bank
 - Liberty Square
+- Opera House
+- Ice Cream Shop
+- Erzsébet Square
+
+
 
 ### Dinner at Zeller Bistro
 [Map](https://goo.gl/maps/QzDKNyhhjTL2)
 
 ## Monday (for Hunhun only)
+### 6am Stroll in Central Market Hall
+
 ### Lunch at Comme Chez Soi - very near the hotel
 [Map](https://goo.gl/maps/7WY6EZN4cE82)
