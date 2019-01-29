@@ -42,7 +42,7 @@ Matej Kužel - clarinet
 Metod Banko - guitar
 Jan Gregorka - double bass
 
-8pm ticket reservation.
+[8pm ticket reservation.](jazz.pdf)
 
 https://opusjazzclub.hu/en/concerts/slovenijajazz-beyond-teo-collori-momento-cigano
 
