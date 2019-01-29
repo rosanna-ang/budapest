@@ -12,6 +12,8 @@ Széchenyi Chain Bridge (Lánchíd) is the most famous bridge in the city: the .
 
 What used to be a pub is now a delightful restaurant that prides itself on serving simple home cooked food. The menu includes options like grilled sausages, oven baked flamed pies, and goulash soup. Pest-Buda Bistro is close to the castle and the cathedral, making it the perfect lunch or dinner break with excellent service and a charming seating area outside.
 
+[Here](http://travelthisearth.com/pest-buda-bistro-dinner-review-budapest/) is a sample of what to expect.
+
 ### Walk around Castle District
 
 Funicular ride from Adam Clark Sq (Chain Bridge) to Castle Hill top
@@ -31,6 +33,7 @@ From the Royal Palace, take Támok utca (street) until you get to Matthias Churc
 Funicular ride from Castle Hill top to Adam Clark Sq by Chain Bridge... alternately we can walk back down.
 
 ### Dinner at New York Cafe
+[Link](https://goo.gl/maps/QzDKNyhhjTL2)
 The beating heart of the New York Palace hotel, the New York Café has preserved all the authentic decoration and flair that once made it an inspiration for the enquiring minds of Hungary's cultural and intellectual community. Cast your gaze upwards to the ceiling and you’ll see frescoes by Gusztav Mannheimer and Ferenc Eisenhut, dating back to the mid-1800s. All around you, Venetian glass lamps softly illuminate the marble columns and gilded stuccoes. Enveloped by this Belle Époque charm, you can relish the moment. Enjoy a conversation with your waiter or barman, follow the chef’s recommendations – and soak up the colour and the chatter of one of Europe’s most legendary destinations.
 
 View the menus [here](NewYorkCafeMenu2019January_en.pdf).
