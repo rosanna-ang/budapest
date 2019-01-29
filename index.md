@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here's an image of a drag racer in action:
 
-![Drag Racing](ChickenPaprikash.jpg =250x)
+![Drag Racing](ChickenPaprikash.jpg =25x)
 
 <img src="ChickenPaprikash.jpg"
      alt="Markdown Monster icon"
