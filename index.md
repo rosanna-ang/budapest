@@ -6,7 +6,7 @@ Walk to Buda side by crossing the famous bridge
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-<img src="ChickenPaprika.jpg" width="100">
+<img src="ChickenPaprika.jpg" width="500">
 
 
 
