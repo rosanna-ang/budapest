@@ -46,8 +46,14 @@ Jan Gregorka - double bass
 
 https://opusjazzclub.hu/en/concerts/slovenijajazz-beyond-teo-collori-momento-cigano
 
-### Dinner... let's play it by ear!
-?
+### Dinner... on Food truck Alley  !
+Lets walk there about 20 mins
+Karavan Street Food
+- Asian food truck with rice for buns
+- Zing burger
+- Langos (deep fried bread + savory toppings)
+- hungarian strudel
+- Chimney cakes
 
 
 
@@ -79,9 +85,15 @@ More info on the concert [here](https://www.mupa.hu/en/program/classical-music-o
 
 - Shoes on the Danube Bank
 - Liberty Square
-- Opera House
 - Ice Cream Shop
 - Erzsébet Square
+- Opera House
+- Terror Museum
+- Heroes Square
+- City Park (Ice skating rink)
+- Vajdahunyad Castle on an Artifical island
+Cardboard paper to stone
+
 
 
 ### Dinner at Zeller Bistro
@@ -92,6 +104,15 @@ More info on the concert [here](https://www.mupa.hu/en/program/classical-music-o
 
 ### Lunch at Comme Chez Soi - very near the hotel
 [Map](https://goo.gl/maps/7WY6EZN4cE82)
+
+### Cafe Gerbeaud
+[Map](https://goo.gl/maps/7gB7wRFdNHt)
+Grand, high-ceilinged dining room with chandeliers, serving coffee, cakes & Hungarian bistro dishes.
+Very odd coffee and desserts.
+desserts on display.
+gerbeaud coffee. black coffee with apricot sauce.
+
+https://gerbeaud.hu/en/our-products/
 
 ### Dinner at New York Cafe
 [Map](https://goo.gl/maps/QzDKNyhhjTL2)
