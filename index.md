@@ -80,6 +80,7 @@ Debussy: Rhapsody No. 1 for Orchestra and Clarinet, La mer
 
 More info on the concert [here](https://www.mupa.hu/en/program/classical-music-opera-theatre/mav-symphony-orchestra-2019-02-03_12-30-bela-bartok-national-concert-hall).
 
+Here are our tickets [1](mupa1.pdf) [2](mupa2.pdf)
 
 ### Go Up North and walk around
 
