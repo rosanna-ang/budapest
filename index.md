@@ -55,10 +55,11 @@ Reservation is at 8:00pm.
 - Statue of Pálné Veres
 - Hungarian National Museum
 
-### Lunch at Central Cafe
+### Brunch at Central Cafe
+Founded in 1887, the Centrál Café is among the oldest of its kind in Budapest. It represents tradition and history, but is also open to new ideas. Its beautiful antique interior of paintings, vintage lights and elaborate wooden surfaces takes you back to 19th-century, even though you’re in the modern-day city centre. The kitchen focuses on Hungarian cuisine and serves excellent desserts as well as fine coffees.
+<img src="cafe-central.jpg" width="400">
+
 We have an early reservation of 10:30 am to make it to the concert in time.
-
-
 
 
 ### MUPA
@@ -72,9 +73,7 @@ Debussy: Rhapsody No. 1 for Orchestra and Clarinet, La mer
 More info on the concert [here](https://www.mupa.hu/en/program/classical-music-opera-theatre/mav-symphony-orchestra-2019-02-03_12-30-bela-bartok-national-concert-hall).
 
 
-
-
-### Walk up north
+### Go Up North and walk around
 
 - Shoes on the Danube Bank
 - Liberty Square
