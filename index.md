@@ -50,15 +50,22 @@ Reservation is at 8:00pm.
 
 
 ## Sunday in Pest
-### Walk up North for a morning stroll
-- Shoes on the Danube Bank
-- Liberty Square
+### MUPA
+Debussy: Rhapsody No. 1 for Orchestra and Clarinet
+Debussy: La mer
 
-[Map](https://goo.gl/maps/QzDKNyhhjTL2)
+<img src="mav.jpg" width="400">
+
+More info on the concert [here](https://www.mupa.hu/en/program/classical-music-opera-theatre/mav-symphony-orchestra-2019-02-03_12-30-bela-bartok-national-concert-hall).
+
+
+[Map](https://goo.gl/maps/aRAfUcK7hYk)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
+- Shoes on the Danube Bank
+- Liberty Square
 
 ### Dinner at Zeller Bistro
 [Map](https://goo.gl/maps/QzDKNyhhjTL2)
