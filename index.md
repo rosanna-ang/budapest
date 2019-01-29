@@ -1,9 +1,12 @@
 ## Saturday Afternoon in Buda
 
+
+
+
+- Walk to Buda side by crossing the famous bridge
 - Lunch at Pest-Buda Bistro
 
-
-Walk to Buda side by crossing the famous bridge
+<img src="http://visitbudapest.travel/images/made/images/content/body/szechenyi-chain-bridge_574_383.jpg" width="400">
 
 
 <img src="ChickenPaprika.jpg" width="400">
