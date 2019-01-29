@@ -1,22 +1,17 @@
-## Saturday
+## Saturday Afternoon in Buda
 
-Lunch at
+- Lunch at Pest-Buda Bistro
+
 
 Walk to Buda side by crossing the famous bridge
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-<img src="ChickenPaprika.jpg" width="500">
+<img src="ChickenPaprika.jpg" width="400">
 
-<kbd>
-<img src="gulyas.jpg" width="300">
-</kbd>
+<img src="gulyas.jpg" width="400">
 
-
-
-<kbd>
 <img src="dobos.jpg" width="400">
-</kbd>
+
 
 You can use the [editor on GitHub](https://github.com/rosanna-ang/budapest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,13 +21,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## Sunday
+## Sunday in Pest
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+
+<img src="gulyas.jpg" width="400">
 
 # Header 1
 ## Header 2
