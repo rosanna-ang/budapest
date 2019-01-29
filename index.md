@@ -1,12 +1,16 @@
 ## Saturday Afternoon in Buda
 
 
-
-
 - Walk to Buda side by crossing the famous bridge
+<img src="http://visitbudapest.travel/images/made/images/content/body/szechenyi-chain-bridge_574_383.jpg" width="400">
+
+Start your exploration of Budapest’s bridges with the most famous bridge in the city: the Széchenyi Chain Bridge (Lánchíd). The Chain Bridge spans the Danube between Clark Ádám tér in Buda and Roosevelt tér in Pest, and was the first to permanently connect Buda and Pest. At the time of its construction, the bridge was considered to be one of the wonders of the world. The road is hanging on iron chains – hence its name, and is held by the two classicist piers.
+
+Prior to the Chain Bridge’s construction, there was a pontoon bridge across the river which enabled passage from spring to autumn. During winter, the river would freeze and only then was crossing possible. This was not a reliable link from Buda to Pest, as abrupt changes in the weather meant that sometimes people would get stuck on either side after crossing. In 1820, Count István Széchenyi was forced to wait a week to get to his father’s funeral for this reason. The experience led him to decide that a permanent bridge had to be built, and he became a major advocate of the project, eventually founding a society to finance and build the bridge.
+
 - Lunch at Pest-Buda Bistro
 
-<img src="http://visitbudapest.travel/images/made/images/content/body/szechenyi-chain-bridge_574_383.jpg" width="400">
+
 
 
 <img src="ChickenPaprika.jpg" width="400">
