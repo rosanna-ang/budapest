@@ -15,6 +15,13 @@ What used to be a pub is now a delightful restaurant that prides itself on servi
 [Here](http://travelthisearth.com/pest-buda-bistro-dinner-review-budapest/) is a sample of what to expect.
 
 ### Walk around Castle District
+After lunch, get to the top of Castle Hill by taking the Castle Hill Funicular (Budavári Sikló).
+
+<img src="fun.jpg" width="400">
+
+Once you get to the top, we suggest discovering Buda Castle and its surroundings. It offers an impressive panorama over Pest and the Danube river. Don’t forget to walk into the Castle’s patio which houses the Budapest History Museum.
+
+From the Royal Palace, take Támok utca (street) until you get to Matthias Church, which costs 1,500Ft to visit and the Fisherman’s Bastion, from which you’ll get the best views across the city and the Hungarian Parliament.
 
 Funicular ride from Adam Clark Sq (Chain Bridge) to Castle Hill top
 
