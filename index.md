@@ -33,8 +33,9 @@ We have a Budapest card, so we get access to these museums for free:
 #### Free Tour in Buda Castle District Budapest
 Daily walking tour from 2pm (running every day, even on bank holidays) in English. Starts from the Holy Trinity Statue in front of Matthias Church, visiting the major attractions of the Buda Castle (Matthias Church, Fisherman’s Bastion, courtyards of the Castle).
 
-#### Free Tour in City Centre Budapest
-Also a daily walking tour from 10am on the Pest side. This English language tour starts from the city centre (31 Vaci str., Budapest District V.), and features the most important attractions of Pest, such as the St. Stephen’s Basilica, the Hungarian Parliament and the Liberty Square.
+Meeting time and location of Buda Walking tour: 2 pm at the Holy Trinity Statue near the Matthias Church in the Buda Castle District, Holy Trinity Square, 1014 Budapest
+
+
 
 #### Further Discounts with Budapest Card in the Buda Castle
 - Museum of Music History: 50% discount form the entry price, also valid for the daily public concerts in the museum
@@ -43,6 +44,8 @@ Also a daily walking tour from 10am on the Pest side. This English language tour
 
 Public transportation: free with Budapest Card. The Castle District can be easily accessed by bus no. 16 from either the Buda or Pest side.  More info on How to Get to Buda Castle
 
+<img src="budacastle.jpg" width="400">
+
 Don’t forget to walk into the Castle’s patio which houses the Budapest History Museum.
 
 - Military Museum – Mary Magdalene Church Tower
@@ -50,6 +53,9 @@ Don’t forget to walk into the Castle’s patio which houses the Budapest Histo
 - Palace of Buda: National Gallery – National Library – Budapest History Museum – Matthias Fountain
 - Royal Palace – Sculpture of mythical Turul bird
 - Matthias Church – Trinity Statue – Fisherman’s Bastion
+
+<img src="Fishermans-Bastion-Buda-Castle-Hill-Budapest-Stephen-Jones-1024x679.png" width="400">
+
 
 From the Royal Palace, take Támok utca (street) until you get to Matthias Church, which costs 1,500Ft to visit and the Fisherman’s Bastion, from which you’ll get the best views across the city and the Hungarian Parliament.
 
@@ -93,6 +99,11 @@ Karavan Street Food
 
 - Statue of Pálné Veres
 - Hungarian National Museum
+
+#### Free Tour in City Centre Budapest
+Also a daily walking tour from 10am on the Pest side. This English language tour starts from the city centre (31 Vaci str., Budapest District V.), and features the most important attractions of Pest, such as the St. Stephen’s Basilica, the Hungarian Parliament and the Liberty Square.
+
+Meeting time and location of Pest Walking tour: 10 am at Molnar’s Kurtoskalacs: 31 Vaci street, 1052 Budapest
 
 ### Brunch at Central Cafe
 Founded in 1887, the Centrál Café is among the oldest of its kind in Budapest. It represents tradition and history, but is also open to new ideas. Its beautiful antique interior of paintings, vintage lights and elaborate wooden surfaces takes you back to 19th-century, even though you’re in the modern-day city centre. The kitchen focuses on Hungarian cuisine and serves excellent desserts as well as fine coffees.
