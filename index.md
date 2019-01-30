@@ -93,7 +93,7 @@ Karavan Street Food
 - hungarian strudel
 - Chimney cakes
 
-
+### A Literal Sausage Fest
 
 ## Sunday in Pest
 
@@ -103,7 +103,13 @@ Karavan Street Food
 #### Free Tour in City Centre Budapest
 Also a daily walking tour from 10am on the Pest side. This English language tour starts from the city centre (31 Vaci str., Budapest District V.), and features the most important attractions of Pest, such as the St. Stephen’s Basilica, the Hungarian Parliament and the Liberty Square.
 
+
 Meeting time and location of Pest Walking tour: 10 am at Molnar’s Kurtoskalacs: 31 Vaci street, 1052 Budapest
+
+#### Self Tour
+St. Stephen’s Basilica, beautuiful church, climb up to the dome to the top.  staircase is beautiful and nice view of the city from the top.
+
+Hungarian Parliament and the Liberty Square.
 
 ### Brunch at Central Cafe
 Founded in 1887, the Centrál Café is among the oldest of its kind in Budapest. It represents tradition and history, but is also open to new ideas. Its beautiful antique interior of paintings, vintage lights and elaborate wooden surfaces takes you back to 19th-century, even though you’re in the modern-day city centre. The kitchen focuses on Hungarian cuisine and serves excellent desserts as well as fine coffees.
@@ -165,3 +171,6 @@ The beating heart of the New York Palace hotel, the New York Café has preserved
 
 View the menus [here](NewYorkCafeMenu2019January_en.pdf).
 Reservation is at 8:00pm.
+
+## Tuesday (for Hunhun only)
+### 6am Stroll in Central Market Hall
