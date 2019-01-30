@@ -19,17 +19,35 @@ After lunch, get to the top of Castle Hill by taking the Castle Hill Funicular (
 
 <img src="fun.jpg" width="400">
 
-Once you get to the top, we suggest discovering Buda Castle and its surroundings. It offers an impressive panorama over Pest and the Danube river. Don’t forget to walk into the Castle’s patio which houses the Budapest History Museum.
+Once we get to the top, let's discover Buda Castle and its surroundings. It offers an impressive panorama over Pest and the Danube river. We have a Budapest card, so we get access to these museums for free:
+
+
+
+#### Free Tour in Buda Castle District Budapest
+Daily walking tour from 2pm (running every day, even on bank holidays) in English. Starts from the Holy Trinity Statue in front of Matthias Church, visiting the major attractions of the Buda Castle (Matthias Church, Fisherman’s Bastion, courtyards of the Castle).
+
+#### Free Tour in City Centre Budapest
+Also a daily walking tour from 10am on the Pest side. This English language tour starts from the city centre (31 Vaci str., Budapest District V.), and features the most important attractions of Pest, such as the St. Stephen’s Basilica, the Hungarian Parliament and the Liberty Square.
+
+#### Further Discounts with Budapest Card in the Buda Castle
+- Museum of Music History: 50% discount form the entry price, also valid for the daily public concerts in the museum
+- Hospital in the Rock: 30% discount from the entry price of the underground waxwork exhibition of the former secret bunker and hospital
+- Fisherman’s Bastion: 10% discount from the upper tower entry price (the lower parts are free to visit)
+
+Public transportation: free with Budapest Card. The Castle District can be easily accessed by bus no. 16 from either the Buda or Pest side.  More info on How to Get to Buda Castle
+
+Don’t forget to walk into the Castle’s patio which houses the Budapest History Museum.
+
+- Military Museum – Mary Magdalene Church Tower
+- Toth Arpad Promenade – Arthur Gorgey Statue
+- Palace of Buda: National Gallery – National Library – Budapest History Museum – Matthias Fountain
+- Royal Palace – Sculpture of mythical Turul bird
+- Matthias Church – Trinity Statue – Fisherman’s Bastion
 
 From the Royal Palace, take Támok utca (street) until you get to Matthias Church, which costs 1,500Ft to visit and the Fisherman’s Bastion, from which you’ll get the best views across the city and the Hungarian Parliament.
 
 Funicular ride from Adam Clark Sq (Chain Bridge) to Castle Hill top
 
-- Royal Palace – Sculpture of mythical Turul bird
-- Matthias Church – Trinity Statue – Fisherman’s Bastion
-- Military Museum – Mary Magdalene Church Tower
-- Toth Arpad Promenade – Arthur Gorgey Statue
-- Palace of Buda: National Gallery – National Library – Budapest History Museum – Matthias Fountain
 
 
 
