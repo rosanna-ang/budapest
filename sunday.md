@@ -145,6 +145,7 @@ Here are our tickets [1](mupa1.pdf) [2](mupa2.pdf)
 <img src="liberty_square.jpg" width="400">
 
 ### Ice Cream Shop
+
 ### Erzsébet Square
 <img src="Erzsebet.jpg" width="400">
 
@@ -162,6 +163,7 @@ Here are our tickets [1](mupa1.pdf) [2](mupa2.pdf)
 - Vajdahunyad Castle on an Artifical island
 Cardboard paper to stone
 
+[Day 3](monday.md)
 
 
 ### Dinner at Zeller Bistro
@@ -192,5 +194,3 @@ Reservation is at 8:00pm.
 
 ## Tuesday (for Hunhun only)
 ### 6am Stroll in Central Market Hall
-
-[Day 3](sunday.md)
