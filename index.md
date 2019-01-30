@@ -70,6 +70,10 @@ From the Royal Palace, take Támok utca (street) until you get to Matthias Churc
 
 Funicular ride from Castle Hill top to Adam Clark Sq by Chain Bridge... alternately we can walk back down.
 
+### Hungarian National Gallery (Budapest Card)
+
+### Budapest History Museum (Budapest Card)
+
 ### JAZZ @ Budapest Music Center
 SLOVENIJAJAZZ & BEYOND | TEO COLLORI & MOMENTO CIGANO (SI)
 Teo Collori & Momento Cigano play an extraordinary medley of gypsy and swing music. It is a project where nostalgia blends with new stories, as the boys perform fresh, original songs, in a style that takes us back to the era of ballrooms, cigars, Charleston and lacquered shoes. Their first record, Hot Club Piran, was chosen as “Album of 2015” at the online music portal of the Slovenian coastal area, Muzikobala. In 2016 their quality was recognized in the USA as well, where the album was published on the renowned Lowtemp label. Their second, Kamerato Muzikante was released recently, in October 2018. The new songs still have roots in gipsy jazz but they also flirt with classical muisc, ethno and even film score.
@@ -111,6 +115,8 @@ St. Stephen’s Basilica, beautuiful church, climb up to the dome to the top.  s
 
 Hungarian Parliament and the Liberty Square.
 
+### Hungarian National Museum (Budapest Card)
+
 ### Brunch at Central Cafe
 Founded in 1887, the Centrál Café is among the oldest of its kind in Budapest. It represents tradition and history, but is also open to new ideas. Its beautiful antique interior of paintings, vintage lights and elaborate wooden surfaces takes you back to 19th-century, even though you’re in the modern-day city centre. The kitchen focuses on Hungarian cuisine and serves excellent desserts as well as fine coffees.
 <img src="cafe-central.jpg" width="400">
@@ -137,9 +143,14 @@ Here are our tickets [1](mupa1.pdf) [2](mupa2.pdf)
 - Liberty Square
 - Ice Cream Shop
 - Erzsébet Square
-- Opera House
+### Opera House
+<img src="opera.jpg" width="400">
+
 - Terror Museum
-- Heroes Square
+### Heroes Square
+<img src="heroes.jpg" width="400">
+
+### Hall of Arts also known as the Kunsthalle (Budapest Card)
 - City Park (Ice skating rink)
 - Vajdahunyad Castle on an Artifical island
 Cardboard paper to stone
