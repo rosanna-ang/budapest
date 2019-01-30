@@ -19,7 +19,14 @@ After lunch, get to the top of Castle Hill by taking the Castle Hill Funicular (
 
 <img src="fun.jpg" width="400">
 
-Once we get to the top, let's discover Buda Castle and its surroundings. It offers an impressive panorama over Pest and the Danube river. We have a Budapest card, so we get access to these museums for free:
+Once we get to the top, let's discover Buda Castle and its surroundings. It offers an impressive panorama over Pest and the Danube river.
+
+
+<img src="budapestcard.png" width="400">
+
+
+
+We have a Budapest card, so we get access to these museums for free:
 
 
 
