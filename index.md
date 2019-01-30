@@ -145,11 +145,12 @@ Here are our tickets [1](mupa1.pdf) [2](mupa2.pdf)
 ### Erzsébet Square
 <img src="Erzsebet.jpg" width="400">
 
-
 ### Opera House
 <img src="opera.jpg" width="400">
 
-- Terror Museum
+### Terror Museum
+<img src="terror.jpg" width="400">
+
 ### Heroes Square
 <img src="heroes.jpg" width="400">
 
