@@ -37,7 +37,6 @@ More info on the concert [here](https://www.mupa.hu/en/program/classical-music-o
 
 Here are our tickets [1](mupa1.pdf) [2](mupa2.pdf)
 
-### Go Up North and walk around
 
 ### Shoes on the Danube Bank
 
@@ -64,9 +63,7 @@ Here are our tickets [1](mupa1.pdf) [2](mupa2.pdf)
 Cardboard paper to stone
 
 
-
-
 ### Dinner at Zeller Bistro
 [Map](https://goo.gl/maps/QzDKNyhhjTL2)
 
-[Day 3](monday.md)
+[Next day, Monday](monday.md)
